@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jonespressurepros.com/sitemap.xml
